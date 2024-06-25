@@ -2,7 +2,7 @@
 ![image](https://github.com/kamalmohan217/DevOps-Project-3-tier-Application-Deployment-Azure/assets/128888356/56176858-c770-4d06-8297-2553ca6e03d6)
 <br><br/>
 For your reference the Source Code for this project is present in the GitHub Repository https://github.com/kamalmohan217/TWSThreeTierAppChallenge.git inside the directory Application-Code. However for the current project I have used Azure Repos into which the source code is present. as shown in the screenshot below.
-![image](https://github.com/kamalmohan217/DevOps-Project-3-tier-Application-Deployment-Azure/assets/128888356/01a37b83-dd6d-4e6f-bb22-b8a250ef48e6)
+![image](https://github.com/kamalmohan217/DevOps-Project-3-tier-Application-Deployment-Azure/assets/128888356/129bd84c-bb05-411b-bf30-22e006313736)
 <br><br/>
 1. This is a three tier application (of Things-to-Do App) in which frontend or presentation layer is React Js code which is present in the directory Application-Code/frontend in the GitHub Repo https://github.com/kamalmohan217/TWSThreeTierAppChallenge.git. To deploy React Js code I have created a Pipeline using Azure DevOps.
 2. The Backend or Application layer is Node Js code which present in the directory Application-Code/backend in the GitHub Repo https://github.com/kamalmohan217/TWSThreeTierAppChallenge.git. To deploy Node Js code I have created a Pipeline using Azure DevOps.
